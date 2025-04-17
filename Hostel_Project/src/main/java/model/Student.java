@@ -10,3 +10,5 @@ public class Student {
 
     // Getters and Setters
 }
+
+//get and set method for student controller
